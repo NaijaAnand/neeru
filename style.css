@@ -17,14 +17,21 @@ body
     text-align: center;
 }
 h1 {
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Reggae One', cursive;
     font-weight: 300;
 }
-h2 {
+#name {
     font-size: 40px;
     font-family: 'Reggae One', cursive;
     font-weight: 300;
+  
+}
+h2 {
+    font-size: 35px;
+    font-family: 'Reggae One', cursive;
+    font-weight: 300;
+      color:#064215;
 }
 .profile{
     margin-top: 50px;
@@ -72,4 +79,7 @@ a
 input
 {
     background: grey;
+}
+.collapse navbar-collapse a{
+    font-size:50px;
 }
