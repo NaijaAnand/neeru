@@ -83,3 +83,13 @@ input
 .collapse navbar-collapse a{
     font-size:50px;
 }
+
+.youtube{
+    font-size: 30px;
+}
+.youtube_img{
+    width:1500px;
+    height:600px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
